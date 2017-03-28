@@ -7,7 +7,8 @@ function LinkedList(arr) {
   else
     this.next = null;
 }
-5;
+
+//new_f2
 LinkedList.prototype.clear = function() {
   var list = this;
 
