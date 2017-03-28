@@ -7,12 +7,9 @@ function LinkedList(arr) {
   else
     this.next = null;
 }
-<<<<<<< HEAD
 //new_f
-=======
-
 //master
->>>>>>> master
+
 LinkedList.prototype.clear = function() {
   var list = this;
 
